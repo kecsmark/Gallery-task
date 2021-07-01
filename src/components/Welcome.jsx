@@ -11,7 +11,7 @@ export default function Welcome() {
           backgroundRepeat: "no-repeat",
           backgroundSize: "100% 100%",
           margin: "0 auto",
-          padding: "110px",
+          padding: "90px",
         }}
       >
         <Fade delay={500}>
